@@ -1,0 +1,39 @@
+.back{
+    background-image: url(./img/1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    background-color: rgba(41, 90, 49, 0.426);
+    width: 600px;
+    height: 500px;
+    margin-top: 150px;
+    margin-left: 420px;
+    border-style: solid;
+    border-radius: 30px;
+}
+.user{
+    font-size: large;
+    font-weight: bolder;
+    color: white;
+}
+.form{
+    margin-top: 40px;
+    margin-left: 50px;
+}
+.input{
+    width: 300px;
+    height: 20px;
+    background-color: rgba(235, 255, 239, 0.888);
+    color: rgb(0, 47, 7);
+}
+.btn{
+    background-color: rgba(25, 102, 25, 0.614);
+    color: rgb(255, 255, 255);
+    width: 90px;
+    height: 60px;
+    border-radius: 10px;
+    font-size: large;
+    margin-left: 50px;
+    margin-top: 50px;
+}
